@@ -27,7 +27,6 @@ chmod +x encode decode
 
 
 ## Limitations
----
 
 It works well for smaller files.
 

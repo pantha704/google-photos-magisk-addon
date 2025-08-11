@@ -22,7 +22,7 @@ chmod +x encode decode
 ./encode <cover_media> <payload> <disguised_file_name>
 ```
 ```
-./decode <payload> <cover_media> <output_file_name>
+./decode <disguised_payload> <cover_media> <output_file_name>
 ```
 
 
